@@ -1,7 +1,7 @@
 # Maxim Kiselev — Senior Solidity Engineer
 
 Pre-audit code reviews for DeFi and GameFi teams.  
-8+ years in Solidity. 5 years as a core engineer at [Azuro Protocol](https://azuro.org) — a prediction markets protocol with +41000 of users and +$390 millions in volume.  
+8+ years in Solidity. 5 years as a core engineer at [Azuro Protocol](https://azuro.org) — a prediction markets protocol with over 40,000 users and $390M in cumulative volume.  
 Author of LiquidityTree and Access — both used in production.
 
 📬 **Contact:** Telegram [@MaksimFounder](https://t.me/MaksimFounder) · Email maximkiselevrossia@gmail.com · X [@kiselevm](https://x.com/kiselevm)
@@ -10,7 +10,7 @@ Author of LiquidityTree and Access — both used in production.
 
 ## Services
 
-### Pre-audit code review — $4K–$8K · 5–7 days
+### Pre-audit code review — Available now · $4K–$8K · 5–7 days 
 
 A focused security review by a senior engineer who has shipped production smart contracts handling real money. Designed to be done **before** you pay for a full audit, so you don't waste $20K+ on a remediation round catching obvious issues.
 
@@ -33,7 +33,7 @@ A focused security review by a senior engineer who has shipped production smart 
 On-chain segment tree for fair PnL distribution across a dynamically-changing LP pool. Designed and built by me. Used in production by Azuro Protocol.
 
 ### Access
-[github.com/Azuro-protocol/Access](https://github.com/Azuro-protocol/Access)
+[github.com/Azuro-protocol/Access](https://github.com/Azuro-protocol/Access) · 6⭐
 NFT-based role and access management for smart contracts. Designed and built by me. Used in production by Azuro Protocol.
 
 ### Azuro Protocol (core)
