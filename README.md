@@ -42,13 +42,15 @@ Core smart contracts of a decentralized prediction markets protocol. I was a cor
 
 ---
 
+## Writing
+
+### [DeFi Exploits 2026 — A Pre-Audit Engineer's Perspective](https://github.com/KiselevMaxim/defi-exploits-pre-audit-perspective)
+Breakdown of three EVM exploits from Q1 2026 (Truebit, Makina, Resolv) through the lens of pre-audit review.
+
+---
+
 ## Background
 
 23+ years in software engineering. 8+ years in Solidity / EVM since 2017.  
 Previous roles: Lead Developer at Baucenter, Head of Development at Sodrugestvo.  
 Based remote.
-
-## Writing
-
-### [DeFi Exploits 2026 — A Pre-Audit Engineer's Perspective](https://github.com/KiselevMaxim/defi-exploits-pre-audit-perspective)
-Breakdown of three EVM exploits from Q1 2026 (Truebit, Makina, Resolv) through the lens of pre-audit review.
